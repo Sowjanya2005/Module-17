@@ -3,8 +3,6 @@
 ## AIM:
 To write a Python program to demonstrate the **adjacency list representation** of the given graph.
 
----
-
 ## ALGORITHM:
 
 **Step 1**: Start the program.
@@ -32,11 +30,7 @@ To write a Python program to demonstrate the **adjacency list representation** o
 
 **Step 7**: End the program.
 
----
-
 ## PYTHON PROGRAM
-
-```
 
 Reg.No: 212222060250
 Name: Sowjanya A
